@@ -1,0 +1,12 @@
+user.name=Samal Kumar
+user.email=samalkr7739@gmail.com
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://YOUR_TOKEN_HERE@github.com/your_user/your_project.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.main.remote=origin
+branch.main.merge=refs/heads/main
+branch.main.vscode-merge-base=origin/main
+user.name=samal kumar
